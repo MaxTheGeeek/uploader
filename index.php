@@ -21,7 +21,7 @@ session_start();
 <div class="row">
     <input type="file" class="form-control" name="name">
 </div>
-    <button class="btn btn-primary"><button>
+    <button class="btn">Send<button>
 </form>
 </body>
 </html>
